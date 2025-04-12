@@ -25,7 +25,7 @@
 		"seed:refresh": "docker-compose exec api node dist/seed --refresh"
 	},
 	"dependencies": {
-		"@nestjs/common": "^9.0.0",
+		"@nestjs/common": "^11.0.16",
 		"@nestjs/core": "^9.0.0",
 		"@nestjs/jwt": "^10.0.2",
 		"@nestjs/mapped-types": "^1.2.2",
